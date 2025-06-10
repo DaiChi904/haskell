@@ -1,0 +1,4 @@
+isSorted :: Int[] -> Bool
+
+isSorted =
+
