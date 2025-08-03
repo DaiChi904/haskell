@@ -1,4 +1,0 @@
-isSorted :: Int[] -> Bool
-
-isSorted =
-
